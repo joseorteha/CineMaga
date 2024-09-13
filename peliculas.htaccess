@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /mypagina/ 
+RewriteRule ^index\.html$ - [L]
